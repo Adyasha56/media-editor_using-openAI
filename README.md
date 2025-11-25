@@ -1,6 +1,6 @@
 **Natural Language Image Editor powered by AI**
 
-A full-stack AI application that lets users edit images using simple English commands. Built for the AI Builder Intern Assignment.
+A full-stack AI application that lets users edit images using simple English command.
 
 
 ## 🌟 Features
