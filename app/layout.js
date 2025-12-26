@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Snap EDIT",
-  description: "Using OpenAI & replicate ",
+  description: "Using OpenAI & replicate",
 };
 
 export default function RootLayout({ children }) {
